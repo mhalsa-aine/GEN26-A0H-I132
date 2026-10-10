@@ -4,7 +4,7 @@
 ### Team Details
 #### **Team Name** - JASMIN
 #### Team Members
-|         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |     HOSTEL/DAY SCHOLAR          |
+|         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |     Hostller/ Day Scholar       |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:|:-------------------------------:|
 |   Team Leader   |   MHALSA PADMAKUMAR     |    CB.AI.U4AIM25052    |    FEMALE       |            AIM                  |  HOSTLLER (MYTHREYI)            |
 |    Member 2     |   SHIZA CKV             |    CB.AI.U4AIM25037    |    FEMALE       |            AIM                  |  HOSTLLER (GARGI)               |
