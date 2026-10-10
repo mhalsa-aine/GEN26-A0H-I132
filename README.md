@@ -2,7 +2,7 @@
 
 ## GEN26-A0H-I132
 ### Team Details
-#### **Team Name** JASMIN
+#### **Team Name** - JASMIN
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |     HOSTEL/DAY SCHOLAR          |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:|:-------------------------------:|
