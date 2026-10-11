@@ -1,9 +1,10 @@
 # Genesis 2026: Ideathon
 
 ## GEN26-A0H-I132
-### Team Details
-#### **Team Name** - JASMIN
-#### Team Members
+### Video - https://youtu.be/gVsylFnS9co?si=ItazQZSdutWQ7ZNM
+#### Team Details
+##### **Team Name** - JASMIN
+##### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |     Hostller/ Day Scholar       |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:|:-------------------------------:|
 |   Team Leader   |   MHALSA PADMAKUMAR     |    CB.AI.U4AIM25052    |    FEMALE       |            AIM                  |  HOSTELLER (MYTHREYI)            |
